@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lalatw/Word-Guess/issues"
   },
-  "homepage": "https://github.com/lalatw/Word-Guess#readme"
+  "homepage": "https://github.com/lalatw/Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
 }
